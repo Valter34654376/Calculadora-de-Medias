@@ -9,7 +9,7 @@ const SpanReprovado = '<span class="resultado reprovado">Reprovado</span>';
 const NotaMinima = parseFloat(prompt("Digite a nota minima:"));
 
 
-let linhas ='';
+let linhas ='';   
 form.addEventListener('submit', function(e){ 
    e.preventDefault();
 
